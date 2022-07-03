@@ -1,5 +1,5 @@
 # yamdb_final
-![YAMDB](https://github.com/MotorShoW/yamdb_final/actions/workflows/yamdb_workflows.yml/badge.svg?event=push)
+![YAMDB](https://github.com/MotorShoW/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 
 Учебный проект, REST API для сервиса YAMDB,
 который позволяет собирать отзывы юзеров по выбранным категориям.
