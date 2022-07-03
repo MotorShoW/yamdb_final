@@ -12,9 +12,9 @@
 ```
 *заходим в нужную директорию*
 
-git clone https://github.com/MotorShoW/infra_sp2
+git clone https://github.com/MotorShoW/yamdb_final
 
-cd infra_sp2/infra/
+cd yamdb_final/infra/
 ```
 Запускаем контейнеры, выполняем миграции, проводим сбор статики
 ```
